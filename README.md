@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirti Sahu  
 
-🚀 **Frontend & Backend Developer** | Expert in Angular, Node.js, and Databases  
+🚀 **Frontend & Backend Developer** | Expert in Angular, Node.js, RESTful APIs and query writing.  
 🔧 Building scalable web applications with clean and maintainable code.  
 🌱 Currently enhancing my knowledge of **data structures and algorithms in C++**.  
 
