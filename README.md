@@ -20,15 +20,5 @@
 - **Email**: [kirtisahu178@gmail.com](mailto:kirtisahu178@gmail.com)
 - **Portfolio**: [https://kirti-sahu-portfolio.netlify.app/](https://kirti-sahu-portfolio.netlify.app/)
 
----
-
-## 📈 My Projects  
-### 1. [ComponentCraft](https://github.com/kirtisahu178/component-craft)  
-A modern Angular Material project showcasing reusable components and features for scalable web applications.
-
-### 2. [NgDesignHub](https://github.com/kirtisahu178/ng-design-hub)  
-To creating high-quality, customizable Bootstrap components, form layouts, and design templates, all built with Angular 18 and Bootstrap 5.  
-
----
 
 
