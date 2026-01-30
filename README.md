@@ -10,7 +10,17 @@
 - **Frontend Technologies**: Angular (13 and above), Angular Material, HTML5, CSS3, SCSS, JavaScript, Bootstrap 5.  
 - **Backend Technologies**: Node.js, Express.js.  
 - **Version Control**: Git & GitHub.  
-- **Databases**: MariaDB, MySQL, MSSQL.  
+- **Databases**: MariaDB, MySQL, MSSQL.
+
+---
+
+## 📫 Let's Connect  
+- **GitHub**: [kirtisahu178](https://github.com/kirtisahu178)  
+- **LinkedIn**: [kirti-sahu-355a681b7](https://www.linkedin.com/in/kirti-sahu-355a681b7/) 
+- **Email**: [kirtisahu178@gmail.com](mailto:kirtisahu178@gmail.com)
+- **Portfolio**: [https://kirti-sahu-portfolio.netlify.app/](https://kirti-sahu-portfolio.netlify.app/)
+
+---
 
 ## 📈 My Projects  
 ### 1. [ComponentCraft](https://github.com/kirtisahu178/component-craft)  
@@ -21,8 +31,4 @@ To creating high-quality, customizable Bootstrap components, form layouts, and d
 
 ---
 
-## 📫 Let's Connect  
-- **GitHub**: [kirtisahu178](https://github.com/kirtisahu178)  
-- **LinkedIn**: [kirti-sahu-355a681b7](https://www.linkedin.com/in/kirti-sahu-355a681b7/) 
-- **Email**: [kirtisahu178@gmail.com](mailto:kirtisahu178@gmail.com)
-- **Portfolio**: [https://kirti-sahu-portfolio.netlify.app/](https://kirti-sahu-portfolio.netlify.app/)
+
