@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Key Skills  
-- **Frontend Technologies**: Angular (13 and above), Angular Material, HTML5, CSS3, SCSS, JavaScript, Bootstrap 5.  
+- **Frontend Technologies**: Angular (13 and above), Angular Material, HTML5, CSS3, SCSS, JavaScript, TypeScript, Bootstrap 5.  
 - **Backend Technologies**: Node.js, Express.js.  
 - **Version Control**: Git & GitHub.  
 - **Databases**: MariaDB, MySQL, MSSQL.
