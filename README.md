@@ -108,7 +108,7 @@ Client: NIC & Office of the Chief Electoral Officer, Chhattisgarh
 
 ### 📝 Complaint Monitoring System (CMS)
 
-🔗 https:/nirwachan.cg.gov.in/cmsapp
+🔗 https://nirwachan.cg.gov.in/cmsapp
 
 Centralized complaint management platform used by government departments.
 
