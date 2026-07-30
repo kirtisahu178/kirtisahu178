@@ -13,7 +13,7 @@ Passionate about building secure, scalable, and high-performance web application
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</div>div>
+</div>
 ---
 
 ## 👩‍💻 About Me
