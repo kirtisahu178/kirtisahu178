@@ -1,33 +1,46 @@
 <h1 align="center">Hi 👋, I'm Kirti Sahu</h1>
-<h3 align="center">Software Developer | Angular • Node.js • REST APIs • Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building secure, scalable, and high-performance web applications.
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Angular+Developer;Node.js+Developer;Full+Stack+Developer;Building+Scalable+Web+Applications" />
 </p>
 
----
 <p align="center">
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+
+<h3 align="center">
+Software Developer | Angular • Node.js • REST APIs • Full Stack Development
+</h3>
+
+<p align="center">
+Building secure, scalable and high-performance web applications with modern technologies.
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
 - 💼 Software Developer with **4+ years of experience**
-- 🚀 Developing enterprise-level applications for **Government & Public Sector**
-- 🌱 Currently learning **Data Structures & Algorithms in C++**
-- 🤖 Exploring **Generative AI, Agentic AI & LLMs**
-- 🔍 Interested in Performance Optimization, Secure APIs & Clean Architecture
-- 💬 Ask me about **Angular, Node.js, Express.js, REST APIs, SQL, TypeScript**
+- 🚀 Experienced in building **government & public-sector applications**
+- 🖥️ Specialized in **Angular, Node.js, REST APIs and SQL optimization**
+- 🔐 Experienced with **JWT Authentication & Role-Based Access Control**
+- 📄 Built OCR-based data extraction solutions for Hindi PDF voter lists
+- 🌱 Currently learning **DSA in C++, System Design & Generative AI**
+- 🤖 Exploring **Agentic AI Concepts and LLM Fundamentals**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,express,html,css,bootstrap,git,github,mysql,vscode,python"/>
+</p>
 
 ### Frontend
 - Angular (13+)
@@ -35,8 +48,7 @@ Passionate about building secure, scalable, and high-performance web application
 - TypeScript
 - JavaScript
 - HTML5
-- CSS3
-- SCSS
+- CSS3 / SCSS
 - Tailwind CSS
 - Bootstrap 5
 - React.js (Familiar)
@@ -45,47 +57,102 @@ Passionate about building secure, scalable, and high-performance web application
 - Node.js
 - Express.js
 - RESTful APIs
-- JWT Authentication
-- RBAC
+- Python (Automation Fundamentals)
 
 ### Database
 - MariaDB
 - MySQL
 - MSSQL
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+### Security
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Secure API Design
+- Basic OWASP Principles
+
+### Engineering Practices
+- Performance Optimization
+- API & Query Optimization
+- Code Review
+- Git Workflow
 
 ---
 
 ## 💼 Professional Experience
 
-✔ 4+ Years as Software Developer
+### Software Developer
 
-Worked on mission-critical government applications including:
+**RV Solutions Pvt. Ltd.**  
+Client: Office of the Chief Electoral Officer, Chhattisgarh
 
-- Complaint Monitoring System (CMS)
-- Polling Personnel Randomization System (PPRS)
-- Hindi PDF OCR Data Extraction System
-- Mission Vatsalya Monitoring System
+- Developed responsive Angular applications for administrative workflows
+- Built secure REST APIs using Node.js and Express.js
+- Implemented Hindi PDF OCR data extraction pipeline
+- Optimized APIs, database queries and application performance
+- Supported production systems during high-demand operational periods
+
+
+### Software Developer
+
+**Nippon Data System Pvt. Ltd.**  
+Client: NIC & Office of the Chief Electoral Officer, Chhattisgarh
+
+- Developed full-stack applications used by district collectors and election officers
+- Created and integrated **30+ REST APIs**
+- Automated polling personnel allocation workflows
+- Built scalable systems handling large volumes of election data
 
 ---
 
-## 🌟 Highlights
+## 🚀 Featured Projects
 
-- 🚀 Developed and maintained scalable Angular applications
-- 🔐 Built secure REST APIs using Node.js & Express.js
-- 📄 Implemented Hindi PDF OCR automation pipeline
-- ⚡ Optimized API performance and SQL queries
-- 🛡 Implemented JWT Authentication & Role-Based Access Control
-- 🧩 Worked across the complete Software Development Life Cycle
-- 👩‍💻 Developed 30+ REST APIs
+### 📝 Complaint Monitoring System (CMS)
+
+🔗 https://election.cg.gov.in/cmsapp
+
+Centralized complaint management platform used by government departments.
+
+**Tech Stack:**
+Angular • Angular Material • Node.js • Express.js • MariaDB
+
 
 ---
 
+### 📄 Hindi PDF OCR Data Extraction System
+
+Automated extraction of structured data from Hindi voter list PDFs.
+
+**Highlights:**
+- OCR pipeline using Node.js
+- Converted scanned PDFs into Excel data
+- Reduced manual data processing effort
+
+
+---
+
+### 🗳 Polling Personnel Randomization System (PPRS)
+
+🔗 https://election.cg.gov.in/pprs
+
+Secure election workflow system for randomized polling personnel allocation.
+
+**Tech Stack:**
+Angular • Node.js • Express.js • MSSQL
+
+
+---
+
+### 👧 Mission Vatsalya Monitoring System
+
+🔗 https://missionvatsalya.cg.gov.in
+
+Monitoring platform for Department of Women and Child Development.
+
+**Tech Stack:**
+Angular • Node.js • Express.js • MariaDB
+
+
+---
 
 ## 🌱 Currently Learning
 
@@ -95,14 +162,56 @@ Worked on mission-critical government applications including:
 - Agentic AI
 - LLM Fundamentals
 
+
 ---
 
-## 📫 Connect with Me
+## 🎓 Education
 
-- 🌐 Portfolio: https://kirti-sahu-portfolio.netlify.app
-- 💼 LinkedIn: https://linkedin.com/in/kirti-sahu-355a681b7
-- 💻 GitHub: https://github.com/kirtisahu178
-- 📧 Email: kirtisahu178@gmail.com
+**Master of Science (M.Sc.) – Information Technology**  
+Pt. Ravishankar Shukla University, Raipur
+
+**Bachelor of Science (B.Sc.) – Computer Science**  
+Pt. Ravishankar Shukla University, Raipur
+
+
+---
+
+## 📚 Publication
+
+**A Survey on Cyber Law in India: A Weapon for Controlling Cyber Crimes**
+
+International Journal of Technology, 2020
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirtisahu178&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisahu178&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio  
+https://kirti-sahu-portfolio.netlify.app
+
+💼 LinkedIn  
+https://linkedin.com/in/kirti-sahu-355a681b7
+
+💻 GitHub  
+https://github.com/kirtisahu178
+
+📧 Email  
+kirtisahu178@gmail.com
+
 
 ---
 
